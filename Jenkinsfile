@@ -1,4 +1,4 @@
 @Library("jmsdevops@main") _
 pushDockerHub(
-dockerRepoName: 'Hello-world-java-app'
+dockerRepoName: 'hello-world-java-app'
 )
